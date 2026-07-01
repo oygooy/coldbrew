@@ -1,3 +1,2 @@
-hello
-This is a new feature!
-깃허브 웹에서 직접 추가한 문장!
+Hello
+hi Git!
